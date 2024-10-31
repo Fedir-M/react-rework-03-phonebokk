@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-rework-03-phonebokk/static/css/main.77cfacda.css",
+    "main.js": "/react-rework-03-phonebokk/static/js/main.3e23a62e.js",
+    "index.html": "/react-rework-03-phonebokk/index.html",
+    "static/media/delete.svg": "/react-rework-03-phonebokk/static/media/delete.cec88e4e1c18bde67f691129eedf04cc.svg",
+    "main.77cfacda.css.map": "/react-rework-03-phonebokk/static/css/main.77cfacda.css.map",
+    "main.3e23a62e.js.map": "/react-rework-03-phonebokk/static/js/main.3e23a62e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77cfacda.css",
+    "static/js/main.3e23a62e.js"
+  ]
+}
