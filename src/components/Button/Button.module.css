@@ -1,0 +1,21 @@
+.button {
+  max-width: 200px;
+
+  padding: 10px;
+
+  border: none;
+  border-radius: 6px;
+  box-shadow: 2px 3px 4px #0000003f;
+
+  cursor: pointer;
+
+  transition: 0.3s ease;
+}
+
+.button:active {
+  transform: scale(0.95);
+}
+
+.btnDelete {
+  color: #bb1010;
+}

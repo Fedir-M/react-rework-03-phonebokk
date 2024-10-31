@@ -1,0 +1,22 @@
+.listItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  font-size: 18px;
+}
+
+.itemName {
+  min-width: 150px;
+
+  font-weight: 600;
+}
+
+.itemNumber {
+  width: 150px;
+  margin-left: 20px;
+}
+
+.itemBtn {
+  margin-left: auto;
+}
