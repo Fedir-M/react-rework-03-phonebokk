@@ -1,8 +1,8 @@
 {
-  "name": "phonebook-localStorage",
+  "name": "react-rework-03-phonebokk",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://fedir-m.github.io/phonebook-localStorage/",
+  "homepage": "https://fedir-m.github.io/react-rework-03-phonebokk/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
